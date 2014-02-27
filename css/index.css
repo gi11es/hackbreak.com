@@ -1,8 +1,11 @@
-h1 {
+h1, .bottom-logo {
   font-size: 60px;
   font-family: 'Russo One', sans-serif;
   text-align: center;
   color: #666;
+}
+
+h1 {
   position: absolute;
   width: 100%;
   top: 25px;
@@ -81,10 +84,6 @@ p.contacts {
 
 p.contacts a {
   text-decoration: none;
-}
-
-p.contacts a:hover {
-  text-decoration: underline;
 }
 
 section .backdrop {
