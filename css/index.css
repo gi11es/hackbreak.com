@@ -1,0 +1,56 @@
+h1 {
+  font-size: 60px;
+  font-family: 'Russo One', sans-serif;
+  text-align: center;
+  color: #666;
+  position: absolute;
+  width: 100%;
+  top: 25px;
+}
+
+h2 {
+  text-align: center;
+  color: #f4f4f4;
+  position: absolute;
+  top: 110px;
+  width: 100%;
+  text-shadow: 1px 1px rgba(0, 0, 0, 0.5);
+}
+
+body {
+  background-color: #EFEAE1;
+  font: 16px "Helvetica Neue",Helvetica,arial,freesans,clean,sans-serif;
+  color: #66595C;
+  font-weight: 300;
+  margin: 0;
+}
+
+a {
+  color: #66595C;
+}
+
+.backdrop {
+  max-width: 100%;
+  z-index: -1;
+}
+
+.hack {
+  color: #30ee10;
+  text-shadow: 2px 2px #cc0000;
+}
+
+.break {
+  color: #ff3D16;
+  text-shadow: 2px 2px #00cc00;
+}
+
+header {
+  overflow: auto;
+  position: relative;
+}
+
+footer {
+  text-align: center;
+  font-size: 12px;
+  margin-top: 500px;
+}
