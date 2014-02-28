@@ -78,6 +78,16 @@ section p {
   text-align: justify;
 }
 
+.samples {
+  font-weight: normal;
+  font-size: 22px;
+  text-align: justify;
+}
+
+.samples li {
+  margin-bottom: 10px;
+}
+
 p.contacts {
   font-size: 50px;
 }
